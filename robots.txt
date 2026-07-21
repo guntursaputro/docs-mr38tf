@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-hf4qwo.gdcexpertise.com/sitemap.xml
